@@ -1,4 +1,4 @@
-package innerclasses;
+package com.innerclasses;
 
 /**
  * @author Sajitha
